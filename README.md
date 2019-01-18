@@ -7,7 +7,7 @@ Screenshots
 
 Demo
 =============
-Link : [Codepen]https://codepen.io/dbyoon/pen/LMmMQe
+Link : [Codepen](https://codepen.io/dbyoon/pen/LMmMQe)
 
 License
 =============
