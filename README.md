@@ -7,7 +7,8 @@ Screenshots
 
 Demo
 =============
-[Codepen] : (https://codepen.io/dbyoon/pen/LMmMQe)
+[Codepen]
+
 License
 =============
 The character copyright is in pixar(픽사). Please use it for learning.
